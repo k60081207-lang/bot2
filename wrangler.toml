@@ -17,4 +17,4 @@ enabled = false
 persist = true
 head_sampling_rate = 1
 [vars]
-TELEGRAM_BOT_TOKEN = "8871961243:AAEgXgCstqYEtb7tmpIPjcWKaJU5VYZq1sM"
+TELEGRAM_BOT_TOKEN = "8871963243:AAEgXgCstqYEtb7tmpIPjcUXaJU5VYZq1aU"
