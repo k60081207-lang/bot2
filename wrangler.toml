@@ -1,3 +1,7 @@
+name = "pitchhh_bot"
+main = "main.py"
+compatibility_date = "2024-04-03"
+compatibility_flags = [ "python_workers" ]
 [observability]
 enabled = false
 head_sampling_rate = 1
