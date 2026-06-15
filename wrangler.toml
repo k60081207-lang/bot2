@@ -16,3 +16,5 @@ invocation_logs = true
 enabled = false
 persist = true
 head_sampling_rate = 1
+[vars]
+TELEGRAM_BOT_TOKEN = "8871961243:AAEgXgCstqYEtb7tmpIPjcWKaJU5VYZq1sM"
