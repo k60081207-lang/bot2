@@ -13,7 +13,7 @@ from memory import Memory
 from search import SearchEngine
 import telebot
 
-TOKEN = 8871963243:AAHYJLHLNk4rm6uK9bIIzlG1lpqNW82_Uqs"
+TOKEN = 8871963243:AAEgXgCstqYEtb7tmpIPjcUXaJU5VYZq1aU"
 bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
