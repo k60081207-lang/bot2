@@ -11,7 +11,10 @@ CallbackQueryHandler, filters, ContextTypes
 from ai_router import AIRouter
 from memory import Memory
 from search import SearchEngine
+import telebot
 
+TOKEN = 8871963243:AAHYJLHLNk4rm6uK9bIIzlG1lpqNW82_Uqs"
+bot = telebot.TeleBot(TOKEN)
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
