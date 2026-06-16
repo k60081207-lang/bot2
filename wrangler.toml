@@ -1,0 +1,14 @@
+name = "kara-bot"
+main = "worker.js"
+compatibility_date = "2024-04-03"
+
+[[kv_namespaces]]
+binding = "BOT_KV"
+id = "СЮДИ_ВСТАВИТИ_KV_ID"
+
+[vars]
+TELEGRAM_BOT_TOKEN = "СЮДИ_НОВИЙ_ТОКЕН"
+GEMINI_API_KEY = "СЮДИ_GEMINI_КЛЮЧ"
+GROQ_API_KEY = "СЮДИ_GROQ_КЛЮЧ"
+DEEPSEEK_API_KEY = "СЮДИ_DEEPSEEK_КЛЮЧ"
+MISTRAL_API_KEY = "СЮДИ_MISTRAL_КЛЮЧ"
